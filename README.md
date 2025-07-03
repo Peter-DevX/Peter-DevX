@@ -1,25 +1,31 @@
-- 👋 Hi, I’m @Peter-DevX an enthusiastic web developer with an appetite for learning and coding adventures. I've journeyed through the realms of HTML, CSS, and JavaScript, and I'm eager to dive even deeper.
+Hi, I’m @Peter-DevX
+A passionate and methodical full-stack web developer with a love for scalable solutions and sleek design. I’ve journeyed through the core trio of HTML, CSS, and JavaScript—and now I thrive in building powerful web experiences using modern tools and frameworks.
 
-## 🛠️ Tech Toolkit
+🛠️ Tech Toolkit
+Languages & Syntax: JavaScript, TypeScript, HTML, CSS
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** Currently exploring React.js
-- **Version Control:** Git
-- **Build Tools:** Webpack
-- **Responsive Design:** Embracing Flexbox and Grid
+Frontend Frameworks: React.js, Tailwind CSS
 
-## 💻 What I'm Up To
+Backend Tools: Node.js, Express, Socket.IO
 
-As an intermediate-level developer, I'm honing my skills in building clean and functional user interfaces. I love tackling challenges and finding creative solutions. Currently, I'm delving into the world of React.js to add more dynamism to my projects.
+Version Control: Git & GitHub
 
-## 🌐 Coding Journey
+Build Tools: Webpack, Vite
 
-My coding journey involves exploring different projects, collaborating with fellow developers, and continually expanding my knowledge base. I believe in the power of consistent practice and hands-on experience to evolve as a coder.
+Data & APIs: RESTful APIs, Clerk Authentication
 
-## 🚀 Next Milestone
+Design & Presentation: LaTeX, Adobe Suite
 
-Looking ahead, I'm excited to contribute more to open-source projects, refine my understanding of state management in React, and explore backend technologies to broaden my skill set.
+Real-time & Scalable Tech: WebSockets, API integrations
 
-## Let's Code Together!
+💻 What I'm Up To
+Crafting dynamic, responsive interfaces while integrating backend logic and authentication systems. My recent work includes building a Spotify clone with live API calls and debugging advanced authentication flows using Clerk.
 
-If you're navigating the coding journey too, or if you have insights to share, let's connect! I'm always open to collaborations, learning from others, and making new coding friends. Cheers to the endless possibilities of code! 🚀
+🌐 Coding Journey
+Each project deepens my versatility—from responsive UI design with Tailwind CSS to collating sensor data for environmental research. I combine a creative eye with technical resilience, always eager to refine and deploy impactful solutions.
+
+🚀 Next Milestone
+I’m now diving into React's state management patterns, enhancing real-time features, and exploring more backend scalability. Open-source contributions and multi-domain integrations are my next frontier.
+
+🌱 Let’s Collaborate
+If you're passionate about building innovative applications, pushing creative boundaries, or crafting data-driven presentations, let’s build something cool together. The journey doesn’t end here, it evolves with every new idea 💡🚀
